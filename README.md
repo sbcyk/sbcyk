@@ -1,6 +1,6 @@
 # Hello, welcome to my GitHub profile!
 
-I am [sbcyk], and this is my personal GitHub profile.
+I am cyk, but not sb, and this is my personal GitHub profile.
 
 ## About Me
 
