@@ -16,9 +16,9 @@ You can visit my personal blog to learn more about my life and studies.
 - 🏠 Blog URL: [sbcyk.online](https://sbcyk.online)
 - ✍️ Blog Content: Personal life records, study notes, and technical sharing
 
-## GitHub Stats
+## GitHub Activity
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sbcyk&show_icons=true&theme=radical)
+![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=sbcyk&theme=radical)
 
 ## Contact Me
 
